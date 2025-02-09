@@ -14,7 +14,9 @@ I am a passionate **data analyst** and an aspiring **data scientist**, excited t
 ## 🌟 Let's Connect
 Feel free to explore and connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/rahulsaini](https://www.linkedin.com/in/rahul-saini-2b4b33337/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]https://www.linkedin.com/in/rahul-saini-2b4b33337/
+
+
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)]([https://github.com/rahulsaini](https://github.com/Rahulsaini012))
 
 ---
