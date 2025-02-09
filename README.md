@@ -7,7 +7,7 @@ I am a passionate **data analyst** and an aspiring **data scientist**, excited t
 🌱 **Currently learning:** Python, MySQL, Tableau, Power BI, Excel, and Data Visualization  
 💡 **Open to:** Ideas, collaboration, and new opportunities  
 🚀 **Passionate about:** Turning data into actionable insights  
-📬 **Reach me at:** rahulsaini9501@gmail.com
+📬 **Reach me at:** pb65rahulsaini@gmail.com
 
 ---
 
