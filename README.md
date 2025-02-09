@@ -1,7 +1,5 @@
 # Hey, I'm Rahul Saini
 
-![Welcome Banner](https://via.placeholder.com/900x250?text=Welcome+to+My+Space+%F0%9F%98%84)
-
 Welcome to my space! 😄
 
 I am a passionate **data analyst** and an aspiring **data scientist**, excited to explore the dynamic world of **data and insights**.
@@ -35,14 +33,12 @@ Feel free to explore and connect with me on:
 
 ## 🎯 My Journey
 
-![Data Journey](https://via.placeholder.com/800x300?text=Data+Journey+Visualization)
+![Data Journey](https://images.unsplash.com/photo-1556155092-8707de31f9c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1400&h=600)
 
 - Turning data into meaningful stories and actionable insights  
 - Constantly learning new technologies and best practices  
 - Exploring machine learning models and data science techniques  
 
 Thanks for visiting my space! Let's connect and create something amazing together!
-
-
 
 
